@@ -1,0 +1,4 @@
+#Thu Oct 17 22:17:08 BDT 2019
+base.0=E\:\\MobileApp\\gallery_app\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
